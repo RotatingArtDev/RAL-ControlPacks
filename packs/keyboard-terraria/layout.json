@@ -29,7 +29,57 @@
                 "KEYBOARD_A"
             ],
             "mode": "KEYBOARD",
-            "isRightStick": true
+            "isRightStick": true,
+            "texture": {
+                "background": {
+                    "path": "px_joystick_bg.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "knob": {
+                    "path": "px_joystick_knob.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "backgroundPressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "knobPressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -52,7 +102,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_SPACE",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_jump.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -75,7 +175,57 @@
             "mode": "KEYBOARD",
             "keycode": "MOUSE_LEFT",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_attack.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -98,7 +248,57 @@
             "mode": "KEYBOARD",
             "keycode": "MOUSE_RIGHT",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_use.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -121,7 +321,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_E",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_hook.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -144,7 +394,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_ESCAPE",
             "isToggle": false,
-            "shape": "RECTANGLE"
+            "shape": "RECTANGLE",
+            "texture": {
+                "normal": {
+                    "path": "px_bag.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -167,7 +467,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_M",
             "isToggle": false,
-            "shape": "RECTANGLE"
+            "shape": "RECTANGLE",
+            "texture": {
+                "normal": {
+                    "path": "px_map.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -190,7 +540,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_B",
             "isToggle": false,
-            "shape": "RECTANGLE"
+            "shape": "RECTANGLE",
+            "texture": {
+                "normal": {
+                    "path": "px_buff.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -213,7 +613,57 @@
             "mode": "KEYBOARD",
             "keycode": "MOUSE_WHEEL_UP",
             "isToggle": false,
-            "shape": "RECTANGLE"
+            "shape": "RECTANGLE",
+            "texture": {
+                "normal": {
+                    "path": "px_left.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -236,7 +686,57 @@
             "mode": "KEYBOARD",
             "keycode": "MOUSE_WHEEL_DOWN",
             "isToggle": false,
-            "shape": "RECTANGLE"
+            "shape": "RECTANGLE",
+            "texture": {
+                "normal": {
+                    "path": "px_right.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -259,7 +759,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_H",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_health.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -282,7 +832,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_J",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_mana.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -305,7 +905,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_R",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_mount.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -328,7 +978,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_LCTRL",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_smart.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -351,7 +1051,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_LSHIFT",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_auto.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -374,7 +1124,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_EQUALS",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_plus.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -397,7 +1197,57 @@
             "mode": "KEYBOARD",
             "keycode": "KEYBOARD_MINUS",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_minus.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "touchpad",
@@ -439,7 +1289,57 @@
             "mode": "KEYBOARD",
             "keycode": "SPECIAL_KEYBOARD",
             "isToggle": false,
-            "shape": "RECTANGLE"
+            "shape": "RECTANGLE",
+            "texture": {
+                "normal": {
+                    "path": "px_keyboard.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         },
         {
             "type": "button",
@@ -462,7 +1362,57 @@
             "mode": "KEYBOARD",
             "keycode": "SPECIAL_TOUCHPAD_RIGHT_BUTTON",
             "isToggle": false,
-            "shape": "CIRCLE"
+            "shape": "CIRCLE",
+            "texture": {
+                "normal": {
+                    "path": "px_mouse.svg",
+                    "enabled": true,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "pressed": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "toggled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                },
+                "disabled": {
+                    "path": "",
+                    "enabled": false,
+                    "scaleMode": "FIT",
+                    "opacity": 1.0,
+                    "tintColor": 0,
+                    "padding": 0.0,
+                    "rotation": 0.0,
+                    "flipHorizontal": false,
+                    "flipVertical": false,
+                    "clipToShape": true
+                }
+            }
         }
     ]
 }

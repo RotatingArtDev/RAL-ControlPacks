@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- 像素风格生命药水 - 红色药水瓶 -->
+  <rect x="0" y="0" width="32" height="32" fill="#5a1a1a" rx="4"/>
+  <rect x="1" y="1" width="30" height="30" fill="#8a2a2a" rx="3"/>
+  <!-- 瓶子 -->
+  <rect x="12" y="4" width="8" height="4" fill="#C0C0C0"/>
+  <rect x="10" y="8" width="12" height="2" fill="#808080"/>
+  <!-- 瓶身 -->
+  <rect x="8" y="10" width="16" height="16" fill="#4a0000"/>
+  <rect x="10" y="12" width="12" height="12" fill="#FF0000"/>
+  <!-- 药水高光 -->
+  <rect x="12" y="14" width="4" height="4" fill="#FF6666"/>
+  <rect x="14" y="16" width="2" height="2" fill="#FFAAAA"/>
+  <!-- 瓶底 -->
+  <rect x="8" y="26" width="16" height="2" fill="#303030"/>
+</svg>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- 像素风格鼠标/触控板切换 -->
+  <rect x="0" y="0" width="32" height="32" fill="#3a3a3a" rx="4"/>
+  <rect x="1" y="1" width="30" height="30" fill="#5a5a5a" rx="3"/>
+  <!-- 鼠标 -->
+  <rect x="10" y="6" width="12" height="4" fill="#808080"/>
+  <rect x="8" y="10" width="16" height="14" fill="#606060"/>
+  <rect x="10" y="8" width="4" height="6" fill="#909090"/>
+  <rect x="18" y="8" width="4" height="6" fill="#707070"/>
+  <!-- 滚轮 -->
+  <rect x="14" y="10" width="4" height="4" fill="#404040"/>
+  <!-- 鼠标底部 -->
+  <rect x="10" y="24" width="12" height="2" fill="#505050"/>
+</svg>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- 像素风格使用 - 手/互动 -->
+  <rect x="0" y="0" width="32" height="32" fill="#4a3a8a" rx="4"/>
+  <rect x="1" y="1" width="30" height="30" fill="#6a4aaa" rx="3"/>
+  <!-- 像素手指点击 -->
+  <rect x="12" y="6" width="8" height="4" fill="#FFD39B"/>
+  <rect x="12" y="10" width="8" height="8" fill="#FFD39B"/>
+  <rect x="8" y="14" width="4" height="4" fill="#FFD39B"/>
+  <rect x="20" y="14" width="4" height="4" fill="#FFD39B"/>
+  <rect x="14" y="18" width="4" height="8" fill="#FFD39B"/>
+  <rect x="10" y="22" width="4" height="4" fill="#DEB887"/>
+  <rect x="18" y="22" width="4" height="4" fill="#DEB887"/>
+</svg>
+
