@@ -4,7 +4,6 @@
     "description": "RotatingArt Launcher 官方控件包仓库",
     "author": "RotatingArtDev",
     "website": "https://github.com/RotatingArtDev/RAL-ControlPacks",
-    "lastUpdated": "2026-01-01T00:00:00Z",
     "categories": [
         {
             "id": "keyboard",
@@ -19,35 +18,8 @@
             "order": 2
         }
     ],
+    "lastUpdated": "2026-01-01T03:44:36Z",
     "packs": [
-        {
-            "id": "keyboard-terraria",
-            "name": "键盘+鼠标模式",
-            "author": "RotatingArtDev",
-            "version": "1.0.0",
-            "versionCode": 1,
-            "description": "适用于泰拉瑞亚的键盘+鼠标控制布局。包含移动摇杆(WASD)、触控板、攻击/使用按钮、跳跃、钩爪、背包、地图等快捷按钮。",
-            "category": "keyboard",
-            "tags": ["泰拉瑞亚", "Terraria"],
-            "iconPath": "",
-            "previewImagePaths": ["preview.png"],
-            "downloadUrl": "",
-            "fileSize": 1827
-        },
-        {
-            "id": "gamepad-terraria",
-            "name": "手柄模式",
-            "author": "RotatingArtDev",
-            "version": "1.0.0",
-            "versionCode": 1,
-            "description": "适用于泰拉瑞亚的 Xbox 手柄控制布局。包含左右摇杆、ABXY按钮、十字方向键、LB/RB肩键、LT/RT扳机、L3/R3摇杆按键、Start/Back功能键。",
-            "category": "gamepad",
-            "tags": ["Xbox", "泰拉瑞亚"],
-            "iconPath": "",
-            "previewImagePaths": ["preview.png"],
-            "downloadUrl": "",
-            "fileSize": 1552
-        },
         {
             "id": "pack_1767235398966",
             "name": "哀乐键盘布局",
@@ -56,11 +28,61 @@
             "versionCode": 1,
             "description": "社区用户创建的键盘控制布局",
             "category": "keyboard",
-            "tags": ["键盘", "社区"],
+            "tags": [
+                "键盘",
+                "社区"
+            ],
             "iconPath": "",
-            "previewImagePaths": ["preview.jpg"],
+            "previewImagePaths": [
+                "preview.jpg"
+            ],
             "downloadUrl": "",
-            "fileSize": 152135
+            "fileSize": 167332
+        },
+        {
+            "id": "gamepad-terraria",
+            "name": "手柄模式",
+            "author": "RotatingArtDev",
+            "version": "1.0.0",
+            "versionCode": 1,
+            "description": "适用于泰拉瑞亚的 Xbox 手柄控制布局。\n\n包含控件：\n- 左右摇杆（移动和视角）\n- ABXY 按钮\n- 十字方向键\n- LB/RB 肩键\n- LT/RT 扳机键\n- L3/R3 摇杆按键\n- Start/Back 功能键",
+            "category": "keyboard",
+            "tags": [
+                "手柄",
+                "Xbox",
+                "Gamepad",
+                "泰拉瑞亚",
+                "Terraria",
+                "官方"
+            ],
+            "iconPath": "icon.png",
+            "previewImagePaths": [
+                "preview.png"
+            ],
+            "downloadUrl": "",
+            "fileSize": 14673
+        },
+        {
+            "id": "keyboard-terraria",
+            "name": "键盘+鼠标模式",
+            "author": "RotatingArtDev",
+            "version": "1.0.0",
+            "versionCode": 1,
+            "description": "适用于泰拉瑞亚的键盘+鼠标控制布局。\n\n包含控件：\n- 移动摇杆（WASD键位）\n- 触控板（鼠标控制）\n- 攻击/使用按钮（鼠标左右键）\n- 跳跃、钩爪、背包、地图等快捷按钮\n- 物品栏切换、生命/魔法药水等",
+            "category": "keyboard",
+            "tags": [
+                "键盘",
+                "鼠标",
+                "泰拉瑞亚",
+                "Terraria",
+                "官方"
+            ],
+            "iconPath": "icon.png",
+            "previewImagePaths": [
+                "preview.png"
+            ],
+            "downloadUrl": "",
+            "fileSize": 14920
         }
     ]
 }
