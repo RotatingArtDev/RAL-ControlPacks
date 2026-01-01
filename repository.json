@@ -18,7 +18,7 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-01-01T05:47:57Z",
+    "lastUpdated": "2026-01-01T05:53:15Z",
     "packs": [
         {
             "id": "pack_1767235398966",
@@ -36,6 +36,7 @@
             "previewImagePaths": [
                 "preview.jpg"
             ],
+            "assetFiles": [],
             "downloadUrl": "",
             "fileSize": 169515
         },
@@ -59,6 +60,7 @@
             "previewImagePaths": [
                 "preview.png"
             ],
+            "assetFiles": [],
             "downloadUrl": "",
             "fileSize": 14673
         },
@@ -77,6 +79,11 @@
             "iconPath": "",
             "previewImagePaths": [
                 "preview.jpg"
+            ],
+            "assetFiles": [
+                "btn_scroll_up.svg",
+                "joy_bg.svg",
+                "joy_knob.svg"
             ],
             "downloadUrl": "",
             "fileSize": 228507
@@ -98,6 +105,7 @@
             "previewImagePaths": [
                 "preview.jpg"
             ],
+            "assetFiles": [],
             "downloadUrl": "",
             "fileSize": 455246
         },
@@ -118,6 +126,7 @@
             "previewImagePaths": [
                 "preview.jpg"
             ],
+            "assetFiles": [],
             "downloadUrl": "",
             "fileSize": 603
         },
@@ -139,6 +148,28 @@
             "iconPath": "icon.png",
             "previewImagePaths": [
                 "preview.png"
+            ],
+            "assetFiles": [
+                "px_attack.svg",
+                "px_auto.svg",
+                "px_bag.svg",
+                "px_buff.svg",
+                "px_health.svg",
+                "px_hook.svg",
+                "px_joystick_bg.svg",
+                "px_joystick_knob.svg",
+                "px_jump.svg",
+                "px_keyboard.svg",
+                "px_left.svg",
+                "px_mana.svg",
+                "px_map.svg",
+                "px_minus.svg",
+                "px_mount.svg",
+                "px_mouse.svg",
+                "px_plus.svg",
+                "px_right.svg",
+                "px_smart.svg",
+                "px_use.svg"
             ],
             "downloadUrl": "",
             "fileSize": 66476

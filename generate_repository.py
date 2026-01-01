@@ -65,6 +65,25 @@ def find_preview_images(pack_dir):
     
     return previews
 
+def find_asset_files(pack_dir):
+    """查找 assets 目录下的所有文件"""
+    assets = []
+    assets_dir = os.path.join(pack_dir, 'assets')
+    
+    if not os.path.exists(assets_dir):
+        return assets
+    
+    for root, dirs, files in os.walk(assets_dir):
+        for file in files:
+            # 获取相对于 assets 目录的路径
+            full_path = os.path.join(root, file)
+            rel_path = os.path.relpath(full_path, assets_dir)
+            # 统一使用正斜杠
+            rel_path = rel_path.replace('\\', '/')
+            assets.append(rel_path)
+    
+    return assets
+
 def scan_packs(packs_dir):
     """扫描所有控件包"""
     packs = []
@@ -93,6 +112,9 @@ def scan_packs(packs_dir):
             if not preview_images and manifest.get('previewImagePaths'):
                 preview_images = manifest['previewImagePaths']
             
+            # 查找 assets 文件
+            asset_files = find_asset_files(pack_path)
+            
             # 构建包信息
             pack_info = {
                 "id": manifest.get('id', pack_name),
@@ -105,6 +127,7 @@ def scan_packs(packs_dir):
                 "tags": manifest.get('tags', []),
                 "iconPath": manifest.get('iconPath', ''),
                 "previewImagePaths": preview_images,
+                "assetFiles": asset_files,  # 添加 assets 文件列表
                 "downloadUrl": manifest.get('downloadUrl', ''),
                 "fileSize": file_size
             }
