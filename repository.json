@@ -18,7 +18,7 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-01-01T03:53:11Z",
+    "lastUpdated": "2026-01-01T03:57:40Z",
     "packs": [
         {
             "id": "pack_1767235398966",
@@ -63,7 +63,7 @@
             "fileSize": 14673
         },
         {
-            "id": "pack_1767235398966",
+            "id": "pack_zaie_keyboard",
             "name": "灾厄键盘布局",
             "author": "PQ零创/ImPQlc",
             "version": "2.0.7",
