@@ -32,8 +32,8 @@
             "isRightStick": false,
             "texture": {
                 "background": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "joy_bg.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -44,8 +44,8 @@
                     "clipToShape": true
                 },
                 "knob": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "joy_knob.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -442,8 +442,8 @@
             "shape": "RECTANGLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_scroll_up.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -515,8 +515,8 @@
             "shape": "RECTANGLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_scroll_down.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -1975,8 +1975,8 @@
             "shape": "RECTANGLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_keyboard.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,

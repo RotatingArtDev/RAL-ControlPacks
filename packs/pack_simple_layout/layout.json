@@ -26,8 +26,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_jump.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -99,8 +99,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_map.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -178,8 +178,8 @@
             "isRightStick": false,
             "texture": {
                 "background": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "joy_bg.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -190,8 +190,8 @@
                     "clipToShape": true
                 },
                 "knob": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "joy_knob.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -251,8 +251,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_attack.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -369,8 +369,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_mouse_right.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -442,8 +442,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_mouse_right.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -1245,8 +1245,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_esc.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -1517,7 +1517,7 @@
             "type": "button",
             "name": "B",
             "x": 0.56458336,
-            "y": 9.259259E-4,
+            "y": 0.0009259259,
             "width": 0.15,
             "height": 0.15,
             "rotation": 0.0,
@@ -1683,8 +1683,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_scroll_up.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -1756,8 +1756,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_scroll_down.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -1902,8 +1902,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_mouse_left.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
@@ -2194,8 +2194,8 @@
             "shape": "CIRCLE",
             "texture": {
                 "normal": {
-                    "path": "",
-                    "enabled": false,
+                    "path": "btn_keyboard.svg",
+                    "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
                     "tintColor": 0,
