@@ -18,7 +18,7 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-01-01T05:53:15Z",
+    "lastUpdated": "2026-01-01T05:55:36Z",
     "packs": [
         {
             "id": "pack_1767235398966",
@@ -108,27 +108,6 @@
             "assetFiles": [],
             "downloadUrl": "",
             "fileSize": 455246
-        },
-        {
-            "id": "pack_simple_layout",
-            "name": "简洁布局",
-            "author": "汝曰",
-            "version": "2.0.7",
-            "versionCode": 207,
-            "description": "适用于泰拉瑞亚的键盘控制布局。\n\n包含控件：\n\n-具体什么样直接下载看看",
-            "category": "keyboard",
-            "tags": [
-                "键盘",
-                "简洁",
-                "社区"
-            ],
-            "iconPath": "",
-            "previewImagePaths": [
-                "preview.jpg"
-            ],
-            "assetFiles": [],
-            "downloadUrl": "",
-            "fileSize": 603
         },
         {
             "id": "keyboard-terraria",
