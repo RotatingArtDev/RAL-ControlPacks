@@ -1,0 +1,44 @@
+name: update-repository
+displayName: 更新仓库索引
+
+triggers:
+  push:
+    branches:
+      include:
+        - main
+    paths:
+      include:
+        - packs/**
+
+stages:
+  - name: update
+    displayName: 更新 repository.json
+    jobs:
+      - name: generate
+        displayName: 生成索引
+        runs-on: ubuntu-latest
+        steps:
+          - name: checkout
+            step: checkout@1
+            
+          - name: setup-python
+            step: setup-python@1
+            with:
+              python-version: '3.11'
+              
+          - name: generate
+            step: shell@1
+            with:
+              script: |
+                python generate_repository.py
+                
+          - name: commit
+            step: shell@1
+            with:
+              script: |
+                git config --local user.email "gitee-ci@gitee.com"
+                git config --local user.name "Gitee CI"
+                git add repository.json
+                git diff --staged --quiet || git commit -m "🔄 自动更新 repository.json"
+                git push
+
