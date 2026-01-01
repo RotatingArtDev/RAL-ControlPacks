@@ -1,0 +1,14 @@
+{
+    "id": "keyboard-terraria",
+    "name": "键盘+鼠标模式",
+    "author": "RotatingArtDev",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "适用于泰拉瑞亚的键盘+鼠标控制布局。\n\n包含控件：\n- 移动摇杆（WASD键位）\n- 触控板（鼠标控制）\n- 攻击/使用按钮（鼠标左右键）\n- 跳跃、钩爪、背包、地图等快捷按钮\n- 物品栏切换、生命/魔法药水等",
+    "tags": ["键盘", "鼠标", "泰拉瑞亚", "Terraria", "官方"],
+    "iconPath": "icon.png",
+    "previewImagePaths": ["preview.png"],
+    "downloadUrl": "",
+    "fileSize": 0
+}
+
