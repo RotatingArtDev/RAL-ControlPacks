@@ -18,7 +18,7 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-01-01T05:55:36Z",
+    "lastUpdated": "2026-01-01T06:07:56Z",
     "packs": [
         {
             "id": "pack_1767235398966",
@@ -126,7 +126,7 @@
             ],
             "iconPath": "icon.png",
             "previewImagePaths": [
-                "preview.png"
+                "preview.jpg"
             ],
             "assetFiles": [
                 "px_attack.svg",
@@ -151,7 +151,7 @@
                 "px_use.svg"
             ],
             "downloadUrl": "",
-            "fileSize": 66476
+            "fileSize": 426000
         }
     ]
 }
