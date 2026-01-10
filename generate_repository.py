@@ -7,7 +7,7 @@
 import os
 import sys
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 # 修复 Windows 控制台编码问题
@@ -153,7 +153,7 @@ def generate_repository(packs_dir, output_file):
     
     # 构建仓库数据
     repository = REPO_CONFIG.copy()
-    repository['lastUpdated'] = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+    repository['lastUpdated'] = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     repository['packs'] = packs
     
     # 写入文件
