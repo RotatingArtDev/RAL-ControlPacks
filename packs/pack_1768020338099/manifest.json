@@ -1,0 +1,19 @@
+{
+    "id": "pack_Stardew Valley_keyboard",
+    "name": "星露谷物语 v0.0.2 beta",
+    "author": "PQ零创/ImPQlc",
+    "version": "0.0.2",
+    "versionCode": 1,
+    "description": "适用于星露谷物语/Stardew Valley的 键盘 控制布局 \n\n-适用于原版",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": ["键盘", "社区"],
+    "iconPath": "",
+    "previewImagePaths": ["preview.jpg"],
+    "createdAt": 1767235398968,
+    "updatedAt": 1767236249238,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

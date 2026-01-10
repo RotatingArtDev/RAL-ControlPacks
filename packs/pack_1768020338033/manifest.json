@@ -1,0 +1,20 @@
+{
+    "id": "pack_1768020338033",
+    "name": "键盘模式布局",
+    "author": "阳光下",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "灾厄实用按键布局，UI大小调到160及以下完美契合按键",
+    "deviceType": "all",
+    "category": "all",
+    "tags": ["泰拉瑞亚"，"terraria"],
+    "iconPath": "",
+    "previewImagePaths": ["preview.jpg"],
+    "assetFiles": [],
+    "createdAt": 1768020338034,
+    "updatedAt": 1768047009750,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}
