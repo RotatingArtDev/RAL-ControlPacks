@@ -18,7 +18,7 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-01-10T13:43:04Z",
+    "lastUpdated": "2026-01-10T15:03:03Z",
     "packs": [
         {
             "id": "keyboard-terraria",
@@ -106,10 +106,10 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 14701
+            "fileSize": 14686
         },
         {
-            "id": "pack_Stardew Valley_keyboard",
+            "id": "pack_1768020338099",
             "name": "星露谷物语 v0.0.2 beta",
             "author": "PQ零创/ImPQlc",
             "version": "0.0.2",
@@ -126,7 +126,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 209206
+            "fileSize": 209196
         },
         {
             "id": "pack_zaie_keyboard",
