@@ -1,0 +1,19 @@
+{
+    "id": "pack_Celeste_keyboard",
+    "name": "蔚蓝 v0.0.1 beta",
+    "author": "PQ零创/ImPQlc",
+    "version": "0.0.1",
+    "versionCode": 1,
+    "description": "适用于蔚蓝/Celeste的 键盘 控制布局 \n\n-适用于原版",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": ["键盘", "社区"],
+    "iconPath": "",
+    "previewImagePaths": ["preview.jpg"],
+    "createdAt": 1767235398968,
+    "updatedAt": 1767236249238,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}
