@@ -1,0 +1,20 @@
+{
+    "id": "pack_1769598272269",
+    "name": "玩家自创",
+    "author": "Nature",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "可适用于法狗，灾厄等mod，没有需要的按键可自行添加，风格舒适此布局需三指以上",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": ["泰拉瑞亚", "terraria"],
+    "iconPath": "",
+    "previewImagePaths": ["preview.jpg"],
+    "assetFiles": [],
+    "createdAt": 1769598272272,
+    "updatedAt": 1769603669919,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}
