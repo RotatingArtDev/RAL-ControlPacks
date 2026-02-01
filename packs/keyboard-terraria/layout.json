@@ -1262,7 +1262,7 @@
             "textOpacity": 1.0,
             "bgColor": -8355712,
             "strokeColor": 0,
-            "strokeWidth": 0.0,
+            "strokeWidth": 1.0,
             "cornerRadius": 22.0,
             "isVisible": true,
             "isPassThrough": false,
