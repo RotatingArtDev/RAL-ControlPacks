@@ -18,50 +18,8 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-01-26T13:01:21Z",
+    "lastUpdated": "2026-02-01T15:25:48Z",
     "packs": [
-        {
-            "id": "pack_simple_layout",
-            "name": "像素布局",
-            "author": "汝曰",
-            "version": "2.0.7",
-            "versionCode": 207,
-            "description": "适用于泰拉瑞亚的键盘控制布局。\n\n包含控件：\n\n-具体什么样直接下载看看",
-            "category": "keyboard",
-            "tags": [
-                "键盘",
-                "简洁",
-                "社区"
-            ],
-            "iconPath": "",
-            "previewImagePaths": [
-                "preview.jpg"
-            ],
-            "assetFiles": [
-                "书.png",
-                "五角星.png",
-                "准心.png",
-                "准心2.png",
-                "减.png",
-                "加.png",
-                "右.png",
-                "向上.PNG",
-                "圆心.png",
-                "圆心2.png",
-                "地图.png",
-                "左.png",
-                "摇杆外部.png",
-                "摇杆外部_1.png",
-                "模式.png",
-                "药水.png",
-                "菜单.png",
-                "菜单1.png",
-                "锁定.png",
-                "键盘.png"
-            ],
-            "downloadUrl": "",
-            "fileSize": 476551
-        },
         {
             "id": "keyboard-terraria",
             "name": "像素模式布局",
@@ -104,7 +62,7 @@
                 "px_use.svg"
             ],
             "downloadUrl": "",
-            "fileSize": 424229
+            "fileSize": 426001
         },
         {
             "id": "pack_1767235398966",
@@ -124,7 +82,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 167415
+            "fileSize": 169535
         },
         {
             "id": "gamepad-terraria",
@@ -148,7 +106,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 14223
+            "fileSize": 14688
         },
         {
             "id": "pack_1768020338099",
@@ -168,7 +126,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 209196
+            "fileSize": 211372
         },
         {
             "id": "pack_zaie_keyboard",
@@ -191,7 +149,27 @@
                 "joy_knob.svg"
             ],
             "downloadUrl": "",
-            "fileSize": 224456
+            "fileSize": 227851
+        },
+        {
+            "id": "pack_1768020338066",
+            "name": "玩家自创",
+            "author": "Nature",
+            "version": "1.0.0",
+            "versionCode": 1,
+            "description": "可适用于法狗，灾厄等mod，没有需要的按键可自行添加，风格舒适此布局需三指以上",
+            "category": "keyboard",
+            "tags": [
+                "泰拉瑞亚",
+                "terraria"
+            ],
+            "iconPath": "",
+            "previewImagePaths": [
+                "preview.jpg"
+            ],
+            "assetFiles": [],
+            "downloadUrl": "",
+            "fileSize": 469067
         },
         {
             "id": "pack_Celeste_keyboard",
@@ -211,7 +189,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 71111
+            "fileSize": 72328
         },
         {
             "id": "pack_1768020338033",
@@ -231,7 +209,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 354447
+            "fileSize": 356331
         }
     ]
 }
