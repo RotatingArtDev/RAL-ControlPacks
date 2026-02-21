@@ -1,0 +1,20 @@
+{
+    "id": "pack_CelestePixelPack",
+    "name": "CelestePixelPack",
+    "author": "sonic rus c",
+    "version": "2.0.0",
+    "versionCode": 1,
+    "description": "CelestePixelPack made by sonic rus c",
+    "deviceType": "all",
+    "category": "all",
+    "tags": ["蔚蓝", "Celeste"],
+    "iconPath": "",
+    "previewImagePaths": ["preview.jpg"],
+    "assetFiles": [],
+    "createdAt": 1770318066136,
+    "updatedAt": 1770443321031,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

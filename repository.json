@@ -18,8 +18,39 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-02-01T15:25:48Z",
+    "lastUpdated": "2026-02-21T15:27:07Z",
     "packs": [
+        {
+            "id": "pack_CelestePixelPack",
+            "name": "CelestePixelPack",
+            "author": "sonic rus c",
+            "version": "2.0.0",
+            "versionCode": 1,
+            "description": "CelestePixelPack made by sonic rus c",
+            "category": "all",
+            "tags": [
+                "蔚蓝",
+                "Celeste"
+            ],
+            "iconPath": "",
+            "previewImagePaths": [
+                "preview.jpg"
+            ],
+            "assetFiles": [
+                "Stick top.png",
+                "Tab.png",
+                "dash.png",
+                "esc.png",
+                "glass.png",
+                "grab.png",
+                "jump.png",
+                "keyboard.png",
+                "pause.png",
+                "stick bg.png"
+            ],
+            "downloadUrl": "",
+            "fileSize": 374040
+        },
         {
             "id": "keyboard-terraria",
             "name": "像素模式布局",
@@ -62,7 +93,7 @@
                 "px_use.svg"
             ],
             "downloadUrl": "",
-            "fileSize": 426001
+            "fileSize": 424230
         },
         {
             "id": "pack_1767235398966",
@@ -82,7 +113,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 169535
+            "fileSize": 167416
         },
         {
             "id": "gamepad-terraria",
@@ -106,7 +137,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 14688
+            "fileSize": 14224
         },
         {
             "id": "pack_1768020338099",
@@ -126,7 +157,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 211372
+            "fileSize": 209197
         },
         {
             "id": "pack_zaie_keyboard",
@@ -149,7 +180,7 @@
                 "joy_knob.svg"
             ],
             "downloadUrl": "",
-            "fileSize": 227851
+            "fileSize": 224457
         },
         {
             "id": "pack_1768020338066",
@@ -189,7 +220,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 72328
+            "fileSize": 71112
         },
         {
             "id": "pack_1768020338033",
@@ -209,7 +240,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 356331
+            "fileSize": 354448
         }
     ]
 }
