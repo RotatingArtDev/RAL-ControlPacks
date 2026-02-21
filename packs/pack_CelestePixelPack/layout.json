@@ -465,7 +465,7 @@
             "shape": "RECTANGLE",
             "texture": {
                 "normal": {
-                    "path": "Tab.png",
+                    "path": "tab.png",
                     "enabled": true,
                     "scaleMode": "FIT",
                     "opacity": 1.0,
