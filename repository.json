@@ -18,13 +18,13 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-02-21T15:32:36Z",
+    "lastUpdated": "2026-02-24T13:02:19Z",
     "packs": [
         {
             "id": "pack_CelestePixelPack",
             "name": "CelestePixelPack",
             "author": "sonic rus c",
-            "version": "2.0.0",
+            "version": "3.0.0",
             "versionCode": 1,
             "description": "CelestePixelPack made by sonic rus c",
             "category": "all",
@@ -37,19 +37,29 @@
                 "preview.jpg"
             ],
             "assetFiles": [
+                "Stick top hold.png",
+                "Stick top.png",
+                "Tab hold.png",
+                "Tab.png",
+                "dash hold.png",
                 "dash.png",
+                "esc hold.png",
                 "esc.png",
+                "glass hold.png",
                 "glass.png",
+                "grab hold.png",
                 "grab.png",
+                "jump hold.png",
                 "jump.png",
+                "keyboard hold.png",
                 "keyboard.png",
+                "pause hold.png",
                 "pause.png",
-                "stick bg.png",
-                "stick top.png",
-                "tab.png"
+                "stick bg hold.png",
+                "stick bg.png"
             ],
             "downloadUrl": "",
-            "fileSize": 374259
+            "fileSize": 398940
         },
         {
             "id": "keyboard-terraria",
