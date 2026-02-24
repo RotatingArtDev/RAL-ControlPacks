@@ -18,7 +18,7 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-02-24T13:02:19Z",
+    "lastUpdated": "2026-02-24T14:48:15Z",
     "packs": [
         {
             "id": "pack_CelestePixelPack",
@@ -34,7 +34,7 @@
             ],
             "iconPath": "",
             "previewImagePaths": [
-                "preview.jpg"
+                "preview.png"
             ],
             "assetFiles": [
                 "Stick top hold.png",
@@ -59,7 +59,7 @@
                 "stick bg.png"
             ],
             "downloadUrl": "",
-            "fileSize": 398940
+            "fileSize": 104340
         },
         {
             "id": "keyboard-terraria",
