@@ -18,7 +18,7 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-03-24T15:59:07Z",
+    "lastUpdated": "2026-04-01T05:02:59Z",
     "packs": [
         {
             "id": "pack_CelestePixelPack",
@@ -333,6 +333,72 @@
             "assetFiles": [],
             "downloadUrl": "",
             "fileSize": 469067
+        },
+        {
+            "id": "pack_TerrariaMobileLayout_keyboard",
+            "name": "移动端原版布局",
+            "author": "xioubu",
+            "version": "1.0.0",
+            "versionCode": 1,
+            "description": "请在'设置->控件'将跳跃键从space改为w",
+            "category": "all",
+            "tags": [
+                "泰拉瑞亚",
+                "terraria"
+            ],
+            "iconPath": "",
+            "previewImagePaths": [
+                "preview.jpg"
+            ],
+            "assetFiles": [
+                "texture_1774330301291.png",
+                "texture_1774331086479.png",
+                "texture_1774331092889.png",
+                "texture_1774331116808.png",
+                "texture_1774331141759.png",
+                "texture_1774331146129.png",
+                "texture_1774331166876.png",
+                "texture_1774331279374.png",
+                "texture_1774331286076.png",
+                "texture_1774331298988.png",
+                "texture_1774331308500.png",
+                "texture_1774331318552.png",
+                "texture_1774331332502.png",
+                "texture_1774331429395.png",
+                "texture_1774331499603.png",
+                "texture_1774331518582.png",
+                "texture_1774331529664.png",
+                "texture_1774331548658.png",
+                "texture_1774331556649.png",
+                "texture_1774331583347.png",
+                "texture_1774331591087.png",
+                "texture_1774331621674.png",
+                "texture_1774333102377.png",
+                "texture_1774447057728.png",
+                "texture_1774447080353.png",
+                "texture_1774447091042.png",
+                "texture_1774447103001.png",
+                "texture_1774447122941.png",
+                "texture_1774447130988.png",
+                "texture_1774447143949.png",
+                "texture_1774447180725.png",
+                "texture_1774447187837.png",
+                "texture_1774447195531.png",
+                "texture_1774447198980.png",
+                "texture_1774447226000.png",
+                "texture_1774447235930.png",
+                "texture_1774854809122.png",
+                "texture_1774854828235.png",
+                "texture_1774854835304.png",
+                "texture_1774855045313.png",
+                "texture_1774855053198.png",
+                "texture_1774855190547.png",
+                "texture_1774855196693.png",
+                "texture_1774855312843.png",
+                "texture_1774855363289.png"
+            ],
+            "downloadUrl": "",
+            "fileSize": 1785994
         },
         {
             "id": "pack_Celeste_keyboard",
