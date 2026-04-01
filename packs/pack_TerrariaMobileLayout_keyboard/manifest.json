@@ -1,0 +1,20 @@
+{
+    "id": "pack_TerrariaMobileLayout_keyboard",
+    "name": "移动端原版布局",
+    "author": "xioubu",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "请在'设置->控件'将跳跃键从space改为w",
+    "deviceType": "all",
+    "category": "all",
+    "tags": ["泰拉瑞亚", "terraria"],
+    "iconPath": "",
+    "previewImagePaths": ["preview.jpg"],
+    "assetFiles": [],
+    "createdAt": 1774321973280,
+    "updatedAt": 1774855368678,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}
