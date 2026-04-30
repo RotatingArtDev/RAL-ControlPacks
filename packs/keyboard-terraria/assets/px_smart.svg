@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- 像素风格智能光标 -->
+  <rect x="0" y="0" width="32" height="32" fill="#2a4a2a" rx="4"/>
+  <rect x="1" y="1" width="30" height="30" fill="#3a6a3a" rx="3"/>
+  <!-- 十字光标 -->
+  <rect x="14" y="4" width="4" height="10" fill="#00FF00"/>
+  <rect x="14" y="18" width="4" height="10" fill="#00FF00"/>
+  <rect x="4" y="14" width="10" height="4" fill="#00FF00"/>
+  <rect x="18" y="14" width="10" height="4" fill="#00FF00"/>
+  <!-- 中心点 -->
+  <rect x="14" y="14" width="4" height="4" fill="#AAFFAA"/>
+</svg>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- 像素风格键盘 -->
+  <rect x="0" y="0" width="32" height="32" fill="#2a2a4a" rx="4"/>
+  <rect x="1" y="1" width="30" height="30" fill="#4a4a6a" rx="3"/>
+  <!-- 键盘主体 -->
+  <rect x="4" y="10" width="24" height="14" fill="#303030"/>
+  <rect x="6" y="12" width="20" height="10" fill="#404040"/>
+  <!-- 按键行1 -->
+  <rect x="7" y="13" width="4" height="2" fill="#606060"/>
+  <rect x="12" y="13" width="4" height="2" fill="#606060"/>
+  <rect x="17" y="13" width="4" height="2" fill="#606060"/>
+  <rect x="22" y="13" width="3" height="2" fill="#606060"/>
+  <!-- 按键行2 -->
+  <rect x="7" y="16" width="4" height="2" fill="#606060"/>
+  <rect x="12" y="16" width="4" height="2" fill="#606060"/>
+  <rect x="17" y="16" width="4" height="2" fill="#606060"/>
+  <rect x="22" y="16" width="3" height="2" fill="#606060"/>
+  <!-- 空格键 -->
+  <rect x="9" y="19" width="14" height="2" fill="#707070"/>
+</svg>
+
