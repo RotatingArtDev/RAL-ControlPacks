@@ -18,7 +18,7 @@
             "order": 2
         }
     ],
-    "lastUpdated": "2026-03-24T15:59:07Z",
+    "lastUpdated": "2026-07-01T14:40:06Z",
     "packs": [
         {
             "id": "pack_CelestePixelPack",
@@ -37,10 +37,6 @@
                 "preview.png"
             ],
             "assetFiles": [
-                "Stick top hold.png",
-                "Stick top.png",
-                "Tab hold.png",
-                "Tab.png",
                 "dash hold.png",
                 "dash.png",
                 "esc hold.png",
@@ -56,10 +52,14 @@
                 "pause hold.png",
                 "pause.png",
                 "stick bg hold.png",
-                "stick bg.png"
+                "stick bg.png",
+                "Stick top hold.png",
+                "Stick top.png",
+                "Tab hold.png",
+                "Tab.png"
             ],
             "downloadUrl": "",
-            "fileSize": 105747
+            "fileSize": 106485
         },
         {
             "id": "keyboard-terraria",
@@ -103,7 +103,7 @@
                 "px_use.svg"
             ],
             "downloadUrl": "",
-            "fileSize": 424230
+            "fileSize": 426001
         },
         {
             "id": "pack_1767235398966",
@@ -123,7 +123,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 167416
+            "fileSize": 169535
         },
         {
             "id": "pack_1767540757363",
@@ -184,7 +184,7 @@
                 "键盘图标2.png"
             ],
             "downloadUrl": "",
-            "fileSize": 1654268
+            "fileSize": 1656729
         },
         {
             "id": "pack_1767540757321",
@@ -245,7 +245,7 @@
                 "键盘图标2.png"
             ],
             "downloadUrl": "",
-            "fileSize": 1712558
+            "fileSize": 1715020
         },
         {
             "id": "gamepad-terraria",
@@ -269,7 +269,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 14224
+            "fileSize": 14703
         },
         {
             "id": "pack_1768020338099",
@@ -289,7 +289,27 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 209197
+            "fileSize": 211390
+        },
+        {
+            "id": "pack_1781518072758",
+            "name": "灾厄实用简洁布局",
+            "author": "阳光下",
+            "version": "1.0.0",
+            "versionCode": 1,
+            "description": "下载后根据自己的习惯进行微调",
+            "category": "all",
+            "tags": [
+                "泰拉瑞亚",
+                "Terraria"
+            ],
+            "iconPath": "",
+            "previewImagePaths": [
+                "preview.jpg"
+            ],
+            "assetFiles": [],
+            "downloadUrl": "",
+            "fileSize": 276383
         },
         {
             "id": "pack_zaie_keyboard",
@@ -312,7 +332,7 @@
                 "joy_knob.svg"
             ],
             "downloadUrl": "",
-            "fileSize": 224457
+            "fileSize": 227851
         },
         {
             "id": "pack_1768020338066",
@@ -332,7 +352,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 469067
+            "fileSize": 471448
         },
         {
             "id": "pack_Celeste_keyboard",
@@ -352,7 +372,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 71112
+            "fileSize": 72328
         },
         {
             "id": "pack_1768020338033",
@@ -372,7 +392,7 @@
             ],
             "assetFiles": [],
             "downloadUrl": "",
-            "fileSize": 354448
+            "fileSize": 356350
         }
     ]
 }
