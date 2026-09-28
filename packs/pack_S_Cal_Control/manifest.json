@@ -1,0 +1,26 @@
+{
+    "id": "pack_S_Cal_Control",
+    "name": "S.Cal's Control",
+    "author": "Community user",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Supreme Calamitas themed keyboard layout for Calamity with full hotkeys and background art.",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Calamity",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.jpg"
+    ],
+    "createdAt": 1771308974850,
+    "updatedAt": 1771310125872,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

@@ -2,15 +2,22 @@
     "id": "pack_CelestePixelPack",
     "name": "CelestePixelPack",
     "author": "sonic rus c",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "versionCode": 1,
     "description": "CelestePixelPack made by sonic rus c",
     "deviceType": "all",
     "category": "all",
-    "tags": ["蔚蓝", "Celeste"],
+    "tags": [
+        "蔚蓝",
+        "Celeste"
+    ],
     "iconPath": "",
-    "previewImagePaths": ["preview.png"],
+    "previewImagePaths": [
+        "preview.png"
+    ],
     "assetFiles": [
+        "Tab hold.png",
+        "Tab.png",
         "dash hold.png",
         "dash.png",
         "esc hold.png",
@@ -26,14 +33,12 @@
         "pause hold.png",
         "pause.png",
         "stick bg hold.png",
-        "stick bg.png'",
-        "Stick top hold.png",
-        "Stick top.png'",
-        "Tab hold.png",
-        "Tab.png"
+        "stick bg.png",
+        "stick top hold.png",
+        "stick top.png"
     ],
     "createdAt": 1770318066136,
-    "updatedAt": 1770443321031,
+    "updatedAt": 1790605936429,
     "downloadCount": 0,
     "fileSize": 0,
     "downloadUrl": "",

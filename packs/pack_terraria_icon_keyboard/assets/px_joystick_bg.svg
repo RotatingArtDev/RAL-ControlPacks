@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" shape-rendering="crispEdges">
+  <!-- 像素风格摇杆背景 -->
+  <rect x="0" y="0" width="64" height="64" fill="#1a1a2e" rx="8"/>
+  <!-- 外圈 -->
+  <rect x="4" y="4" width="56" height="56" fill="#16213e" rx="6"/>
+  <rect x="8" y="8" width="48" height="48" fill="#0f3460" rx="4"/>
+  <!-- 方向标记 -->
+  <rect x="28" y="4" width="8" height="8" fill="#e94560"/>
+  <rect x="28" y="52" width="8" height="8" fill="#e94560"/>
+  <rect x="4" y="28" width="8" height="8" fill="#e94560"/>
+  <rect x="52" y="28" width="8" height="8" fill="#e94560"/>
+  <!-- 内圈 -->
+  <rect x="20" y="20" width="24" height="24" fill="#1a1a2e" rx="2"/>
+</svg>
+

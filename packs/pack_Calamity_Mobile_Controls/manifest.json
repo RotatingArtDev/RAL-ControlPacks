@@ -1,0 +1,26 @@
+{
+    "id": "pack_Calamity_Mobile_Controls",
+    "name": "Calamity Mobile Controls",
+    "author": "Community user",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Simple Calamity mobile control layout with Spanish-labeled buttons (dash, buffs, quick heal, smart cursor).",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Calamity",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.jpg"
+    ],
+    "createdAt": 1767446038415,
+    "updatedAt": 1768104408666,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

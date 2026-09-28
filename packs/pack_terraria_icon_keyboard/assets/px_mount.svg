@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" shape-rendering="crispEdges">
+  <!-- 像素风格坐骑 - 兔子/马 -->
+  <rect x="0" y="0" width="32" height="32" fill="#4a3a2a" rx="4"/>
+  <rect x="1" y="1" width="30" height="30" fill="#7a6a5a" rx="3"/>
+  <!-- 坐骑身体 -->
+  <rect x="8" y="14" width="16" height="10" fill="#B87333"/>
+  <rect x="6" y="16" width="4" height="6" fill="#B87333"/>
+  <!-- 头 -->
+  <rect x="20" y="10" width="8" height="8" fill="#CD853F"/>
+  <rect x="24" y="8" width="4" height="4" fill="#CD853F"/>
+  <!-- 眼睛 -->
+  <rect x="24" y="12" width="2" height="2" fill="#000"/>
+  <!-- 腿 -->
+  <rect x="10" y="24" width="4" height="4" fill="#8B4513"/>
+  <rect x="18" y="24" width="4" height="4" fill="#8B4513"/>
+  <!-- 鬃毛 -->
+  <rect x="16" y="10" width="4" height="4" fill="#654321"/>
+</svg>
+

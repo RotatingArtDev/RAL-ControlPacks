@@ -1,0 +1,25 @@
+{
+    "id": "pack_terraria_icon_keyboard",
+    "name": "Terraria Icon Keyboard",
+    "author": "Community user",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Community extension of the official Terraria keyboard layout using in-game item icons, with inventory slots (1-5) and extra keybinds (Q/F/T/P/X/Y/Z/K).",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.png"
+    ],
+    "createdAt": 1767292606701,
+    "updatedAt": 1769510247232,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

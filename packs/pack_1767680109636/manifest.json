@@ -1,0 +1,25 @@
+{
+    "id": "pack_1767680109636",
+    "name": "control gris y azul",
+    "author": "Community user",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Gray and blue community recolor of the official Terraria keyboard layout (Spanish name).",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.jpg"
+    ],
+    "createdAt": 1767680109643,
+    "updatedAt": 1769119725659,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

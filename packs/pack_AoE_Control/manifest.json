@@ -1,0 +1,26 @@
+{
+    "id": "pack_AoE_Control",
+    "name": "AoE's Control",
+    "author": "Community user",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Calamity keyboard layout with decorated frame corners and a full hotkey set (active skills, quick heal, grapple, mount).",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Calamity",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.jpg"
+    ],
+    "createdAt": 1771308974850,
+    "updatedAt": 1771503537821,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

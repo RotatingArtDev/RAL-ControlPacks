@@ -1,0 +1,26 @@
+{
+    "id": "pack_actual_plane_control",
+    "name": "Actual Plane control",
+    "author": "Community user",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Full-featured Calamity keyboard layout with 70 controls: rage/adrenaline, armor skills, pylons, vein miner, loadouts and more.",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Calamity",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.png"
+    ],
+    "createdAt": 1790605936429,
+    "updatedAt": 1790605936429,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

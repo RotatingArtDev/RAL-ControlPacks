@@ -1,0 +1,26 @@
+{
+    "id": "pack_Calamity_Control",
+    "name": "Calamity Control 2",
+    "author": "Amogus",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Minimal gray Calamity keyboard layout made by Amogus (16 controls).",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Calamity",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.png"
+    ],
+    "createdAt": 1772248523001,
+    "updatedAt": 1772627659356,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

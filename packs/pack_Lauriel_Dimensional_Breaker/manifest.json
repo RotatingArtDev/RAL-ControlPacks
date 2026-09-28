@@ -1,0 +1,25 @@
+{
+    "id": "pack_Lauriel_Dimensional_Breaker",
+    "name": "Lauriel Dimensional Breaker",
+    "author": "Amogus",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Made by Amogus. Credits to Lauriel Dimensional Breaker Skin from Arena of Valor.",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.jpg"
+    ],
+    "createdAt": 1772248523001,
+    "updatedAt": 1773832879473,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

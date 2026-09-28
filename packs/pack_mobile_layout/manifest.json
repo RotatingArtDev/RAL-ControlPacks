@@ -1,0 +1,25 @@
+{
+    "id": "pack_mobile_layout",
+    "name": "mobile layout",
+    "author": "Community user",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "Community keyboard + touchpad layout for Terraria with movement joystick, mouse touchpad and common hotkeys.",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.jpg"
+    ],
+    "createdAt": 1767446038415,
+    "updatedAt": 1767950829853,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}

@@ -1,0 +1,26 @@
+{
+    "id": "pack_1787931966237",
+    "name": "HOJO control pack",
+    "author": "Community user",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "description": "HOJO control pack (\"That's La Peace\") - Calamity keyboard layout with 29 custom-styled controls.",
+    "deviceType": "all",
+    "category": "keyboard",
+    "tags": [
+        "Keyboard",
+        "Terraria",
+        "Calamity",
+        "Community"
+    ],
+    "iconPath": "",
+    "previewImagePaths": [
+        "preview.jpg"
+    ],
+    "createdAt": 1787931966247,
+    "updatedAt": 1788002247148,
+    "downloadCount": 0,
+    "fileSize": 0,
+    "downloadUrl": "",
+    "minLauncherVersion": "1.0.0"
+}
